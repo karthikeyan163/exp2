@@ -92,3 +92,13 @@ N2 = (n +1) + ¾ with V1 = N1& N2 are respective modes numbers.
 
 # Conclusion:
   Thus,the experiment is studied and verified
+
+
+
+
+
+
+
+
+
+  
